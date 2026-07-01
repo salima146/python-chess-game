@@ -49,6 +49,5 @@ To run the project:
 
 ## Author
 
-Salima Hassan
 
 Salima Hassan
