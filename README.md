@@ -47,7 +47,11 @@ To run the project:
 - Save and load games
 - Improved graphics
 
-## Author
+## What I Learned & Improvements
+Working on this project helped me improve my understanding of Python programming and how to structure a larger project across multiple files. I learned how to manage game logic, handle user input, and debug issues that appear when building a full application rather than small programs.
 
+If I continued developing this project, I would improve the AI to make it more challenging, clean up and modularise the code further, and add features such as move history, undo functionality, and saving/loading games.
+
+## Author
 
 Salima Hassan
